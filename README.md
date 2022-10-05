@@ -15,7 +15,7 @@ I am currently working as a Technology Analyst in [Infosys](https://www.infosys.
 | ------------- | ------------- |
 
 ### Top Repositories
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Revanth-Baskaran&repo=hackerrank-certificates&theme=chartreuse-dark&layout=compact" /></a> | <a href="https://github.com/anuraghazra/anuraghazra.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Revanth-Baskaran&repo=tosca-certifications&theme=dracula&layout=compact" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Revanth-Baskaran&repo=hackerrank-certificates&theme=chartreuse-dark&layout=compact" /></a> | <a href="https://github.com/anuraghazra/anuraghazra.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Revanth-Baskaran&repo=tosca-certifications&theme=chartreuse-dark&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <strong>
