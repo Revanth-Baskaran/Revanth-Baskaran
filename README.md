@@ -10,6 +10,9 @@ I am currently working as a Technology Analyst in [Infosys](https://www.infosys.
 <div align="center">
 </br>
 
+![](https://www.codewars.com/users/Revanth_Baskaran/badges/large)
+
+
 ### GitHub Stats
 | <a href="https://github.com/Revanth-Baskaran"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Revanth-Baskaran&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Revanth's github stats" /></a> | <a href="https://github.com/Revanth-Baskaran"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Revanth's Top Languages" /></a> |
 | ------------- | ------------- |
